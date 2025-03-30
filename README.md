@@ -18,7 +18,7 @@ A simple React + TypeScript app using TailwindCSS to help you pick an outfit eve
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/outfit-picker.git
+   git clone https://github.com/katharinazlosa/outfit-picker.git
    cd outfit-picker
    ```
 2. **Install dependencies:**
